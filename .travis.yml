@@ -15,6 +15,7 @@ node_js:
 install:
   - npm install karma-es6-shim
   - npm install
+  - npm i @angular-devkit/core
 script:
   - npm run test:ci
 before_script:
