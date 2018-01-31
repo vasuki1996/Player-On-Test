@@ -92,3 +92,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 1. make sure ```npm i source-map-explorer -g```
 1. ```ng build --prod --aot --sm``` (the sourcemap is for later steps)  
 1. ```cd dist && source-map-explorer A-FILE-WITH-HASH.js```
+END
