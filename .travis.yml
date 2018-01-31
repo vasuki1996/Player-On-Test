@@ -8,7 +8,7 @@ addons:
       - google-chrome-stable
 env:
   global:
-    - GH_REF: github.com/orizens/echoes-player.git
+    - GH_REF: github.com/vasuki1996/Player-On-Test.git
 language: node_js
 node_js:
   - "8.7.0"
