@@ -1,3 +1,6 @@
+## v 3.9.6 (2018/02/01)
+* [FIX] - Minor Bugs 
+
 ## v 3.9.5 (2018/01/07)
 * [UPDATE] - updating infinite-scroll
 * [UPDATE] - added google site verification 
